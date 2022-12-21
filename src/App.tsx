@@ -1,9 +1,7 @@
-import './App.css'
-
 const App = () => {
   return (
-    <div className='App'>
-      <h1>React Typescript Template for Design System</h1>
+    <div>
+      <h1>React Typescript Template</h1>
     </div>
   )
 }
